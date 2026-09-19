@@ -1,0 +1,7 @@
+{
+  "name": "Word Search",
+  "description": "A simple, fun, colourful Word Search Puzzle Game with picture reveals and casual puzzles for all ages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
